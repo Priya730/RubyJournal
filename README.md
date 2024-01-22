@@ -2,7 +2,7 @@ Trying my hands on creating my own Ruby gem 💎
 
 # Ruby Journal
 
-[![Gem Version](https://badge.fury.io/rb/pastel.svg)][gem]
+[![Gem Version](https://badge.fury.io/rb/ruby_journal.svg)][gem]
 
 [gem]: https://rubygems.org/gems/ruby_journal
 
